@@ -21,7 +21,7 @@ h2 {
 /* -- Navigation Menu -- */
 
 nav {
-  background-color: #CE4539;
+  background-color: #34495e;
   opacity: .95;
   position: fixed;
   top: 0;
@@ -57,9 +57,10 @@ nav a {
 
 /* -- Home Jumbotron -- */
 .jumbotron {
-  background: url("http://orig04.deviantart.net/4ee7/f/2015/159/4/d/kftgighg_by_katinasilver-d8whugy.jpg") no-repeat;
+  /* background: url(https://www.planwallpaper.com/static/images/HD-Wallpapers1.jpeg) no-repeat; */
+  background: url(https://www.planwallpaper.com/static/images/HD-Wallpapers1.jpeg) no-repeat;
   background-size: cover;
-  height: 1350px;
+  height: 750px;
 }
 
 .main {
@@ -173,3 +174,4 @@ footer p {
   margin: 0;
   padding-bottom: 20px;
 }
+
